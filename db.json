@@ -14,11 +14,15 @@
             "category" : "Desserts",
             "image" : "https://i.ndtvimg.com/i/2018-03/french-desserts_620x350_51520851425.jpg"
         },
-        
+
+        {
+            "category": "Vegatables",
+            "image" : "https://www.healthyeating.org/images/default-source/home-0.0/nutrition-topics-2.0/general-nutrition-wellness/2-2-2-2foodgroups_vegetables_detailfeature.jpg?sfvrsn=226f1bc7_6"
+        },
+
         {
             "category": "Vegatables",
             "image" : "https://www.healthyeating.org/images/default-source/home-0.0/nutrition-topics-2.0/general-nutrition-wellness/2-2-2-2foodgroups_vegetables_detailfeature.jpg?sfvrsn=226f1bc7_6"
         }
-
     ]
 }
